@@ -1,3 +1,3 @@
 <h2>Crazy Cut Puzzle</h2>
 <p>This shape is essentially made up of twelve little squares. By splitting it up into two groups of 6 squares and drawing a continuous line splitting the groups, two identical shapes can be made.</p>
-![Puzzle Image](https://user-images.githubusercontent.com/92133517/141889966-b079b6b4-a98c-4e84-802d-3ece4b588910.png)
+![puzzle](https://user-images.githubusercontent.com/92133517/141890647-4d334eaa-d8c3-4de4-a02f-832e0d3003a9.png)
